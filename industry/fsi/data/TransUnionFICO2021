@@ -5,7 +5,7 @@
         <SSN>111-22-3333</SSN>
         <Address>9 South Point Lane</Address>
         <FICO>
-            <Score>789</Score>
+            <Score>625</Score>
             <ValidFrom>2021-01-01</ValidFrom>
             <ValidTo>2023-01-04</ValidTo>
         </FICO>
@@ -31,7 +31,7 @@
         <SSN>222-33-4444</SSN>
         <Address>10 South Point Lane</Address>
         <FICO>
-            <Score>655</Score>
+            <Score>700</Score>
             <ValidFrom>2021-06-29</ValidFrom>
             <ValidTo>2023-01-04</ValidTo>
         </FICO>
@@ -50,7 +50,7 @@
         <SSN>333-44-5555</SSN>
         <Address>11 South Point Lane</Address>
         <FICO>
-            <Score>720</Score>
+            <Score>800</Score>
             <ValidFrom>2021-10-08</ValidFrom>
             <ValidTo>2023-01-04</ValidTo>
         </FICO>
