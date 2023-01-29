@@ -7,7 +7,7 @@
         <FICO>
             <Score>789</Score>
             <ValidFrom>2022-01-01</ValidFrom>
-            <ValidTo>2023-01-04</ValidTo>
+            <ValidTo>2023-01-05</ValidTo>
         </FICO>
         <Trades>
             <Trade>
@@ -33,7 +33,7 @@
         <FICO>
             <Score>655</Score>
             <ValidFrom>2022-06-29</ValidFrom>
-            <ValidTo>2023-01-04</ValidTo>
+            <ValidTo>2023-01-05</ValidTo>
         </FICO>
         <Trades>
             <Trade>
@@ -52,7 +52,7 @@
         <FICO>
             <Score>720</Score>
             <ValidFrom>2022-10-08</ValidFrom>
-            <ValidTo>2023-01-04</ValidTo>
+            <ValidTo>2023-01-05</ValidTo>
         </FICO>
         <Trades>
             <Trade>
