@@ -6,8 +6,8 @@
         <Address>9 South Point Lane</Address>
         <FICO>
             <Score>789</Score>
-            <ValidFrom>2000-01-01</ValidFrom>
-            <ValidTo>2018-01-01</ValidTo>
+            <ValidFrom>2018-01-01</ValidFrom>
+            <ValidTo>2023-01-01</ValidTo>
         </FICO>
         <Trades>
             <Trade>
@@ -32,8 +32,8 @@
         <Address>10 South Point Lane</Address>
         <FICO>
             <Score>655</Score>
-            <ValidFrom>2000-06-29</ValidFrom>
-            <ValidTo>2018-01-01</ValidTo>
+            <ValidFrom>2018-06-29</ValidFrom>
+            <ValidTo>2023-01-01</ValidTo>
         </FICO>
         <Trades>
             <Trade>
@@ -51,8 +51,8 @@
         <Address>11 South Point Lane</Address>
         <FICO>
             <Score>720</Score>
-            <ValidFrom>2016-10-08</ValidFrom>
-            <ValidTo>2018-01-01</ValidTo>
+            <ValidFrom>2018-10-08</ValidFrom>
+            <ValidTo>2023-01-01</ValidTo>
         </FICO>
         <Trades>
             <Trade>
